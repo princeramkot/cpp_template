@@ -52,7 +52,8 @@ cout<<z[i]<<" ";
 	
 	
 	int main() {
-	
+		ios_base::sync_with_stdio(false);
+    	cin.tie(NULL);
 		solve1();
 	
 		return 0;
