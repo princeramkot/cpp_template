@@ -55,6 +55,7 @@ cout<<z[i]<<" ";
 		ios_base::sync_with_stdio(false);
     	cin.tie(NULL);
 		solve1();
+		//call fun for one program
 	
 		return 0;
 	}
